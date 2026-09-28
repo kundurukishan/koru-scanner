@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Koru Wi-Fi Scanner</string>
+
+    <string name="action_scan">Scan now</string>
+    <string name="action_grant">Grant permission</string>
+    <string name="action_open_settings">Open settings</string>
+
+    <string name="permission_title">Location permission needed</string>
+    <string name="permission_body">Android only shares nearby Wi-Fi networks with apps that hold the precise location permission, because SSIDs and BSSIDs can reveal where you are. Nothing leaves this device.</string>
+
+    <string name="wifi_off_title">Wi-Fi is off</string>
+    <string name="wifi_off_body">Turn Wi-Fi on (or enable “Wi-Fi scanning” in location settings) to discover networks.</string>
+
+    <string name="location_off_title">Location is off</string>
+    <string name="location_off_body">Android returns an empty scan list while device location is disabled.</string>
+
+    <string name="hidden_ssid">&lt;hidden network&gt;</string>
+    <string name="empty_results">No networks seen yet. Tap Scan now.</string>
+    <string name="scan_throttled">Android throttled the scan request (4 scans per 2 minutes). Showing the latest cached results.</string>
+    <string name="scan_started">Scanning all channels…</string>
+    <string name="auto_refresh">Auto-refresh</string>
+</resources>
